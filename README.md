@@ -1,4 +1,4 @@
-# php1
+# CRUD php mysql
 
 This is CRUD project to managing employees on web using PHP and MySql.
 
