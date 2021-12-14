@@ -1,5 +1,6 @@
 # php1
-Hello, this is project for SMARTI exam.
+
+This is CRUD project to managing employees on web using PHP and MySql.
 
 To install the project use the following steps:
 
